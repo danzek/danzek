@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Dan O'Day, a digital forensic analyst, incident responder, software developer, and reverse engineer. You can learn more about me at https://4n68r.com
+
 <!--
 **danzek/danzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
