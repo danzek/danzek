@@ -1,4 +1,6 @@
-### Hi there 👋
+### Cyber cyber cyber... blockchain tacos are yummy
+
+Why hello there 👋 
 
 I'm Dan O'Day, a digital forensic analyst, incident responder, software developer, and reverse engineer. You can learn more about me at https://4n68r.com
 
